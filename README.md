@@ -1,4 +1,7 @@
 # Earthquakes Plotly Map
+
+![Earthquake Plot](screenshot/global_earthquakes.png)
+
 An interactive visualization of global earthquake activity using Plotly. This project visualizes earthquake data collected over a period of time, providing a visually appealing and informative way to explore seismic events worldwide.
 
 ## Features
